@@ -4,7 +4,6 @@ date:           2025-10-28 00:01:00 +0800
 selected:       true
 pub:            "AAMAS"
 pub_date:       "2026"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span>'
 abstract: >-
   An agent-driven pipeline for diverse project-level code agent benchmarks. Introduces PRDBench (50 Python projects,
   20 domains) and a fine-tuned PRDJudge evaluator with over 90% human alignment.

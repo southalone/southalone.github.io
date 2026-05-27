@@ -16,21 +16,21 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am an undergraduate student at Shanghai Jiao Tong University, majoring in Intelligent Perception.
-    My research interests lie in <strong>reinforcement learning</strong> and <strong>large language models</strong>.
+    My research interests lie in <strong>agent evaluation</strong>.
   </p>
   <p>
-  I am a highly motivated researcher with experience in autonomous driving, DDQN-based reinforcement learning,
-  few-shot learning, and LLM code agents. I have contributed to drone-assisted multi-sensory autonomous driving systems,
-  repository-level LLM benchmarks, and agent-driven evaluation pipelines through research projects and industry internships.
+    My work focuses on building benchmarks and evaluation frameworks for LLM-based code agents.
+    I have contributed to repository-level benchmarks such as CoreCodeBench and PRDBench, including
+    automated benchmark construction pipelines, fine-grained task design, and agent-driven evaluation methods.
   </p>
 
-# portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Shanghai Jiao Tong University
   position: >-
     School of Electronic Information and Electrical Engineering <br/>
-    B.E. in Intelligent Perception · GPA 3.51/4.3
+    B.E. in Intelligent Perception
   date: Sep. 2022 – Jun. 2026
 
 experience:

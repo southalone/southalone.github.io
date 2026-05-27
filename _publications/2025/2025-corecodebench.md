@@ -4,7 +4,6 @@ date:           2025-07-04 00:01:00 +0800
 selected:       true
 pub:            "ACL"
 pub_date:       "2026"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Accepted</span>'
 abstract: >-
   A configurable repository-level benchmark that dissects coding capabilities via atomized tasks.
   Built with CorePipe, it extracts fine-grained tasks from Python repositories to evaluate LLMs beyond coarse pass rates.
