@@ -31,3 +31,7 @@ gem "wdm", "~> 0.2" if Gem.win_platform?
 
 gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
+
+# Ruby 3.4+ removed several stdlib gems from the default set
+gem "base64"    # required by safe_yaml
+gem "bigdecimal" # required by liquid

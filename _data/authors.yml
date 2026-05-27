@@ -1,22 +1,122 @@
-"Your Name":
+"Bolun Zhang":
   bold: true
 
-"Robert White":
-  url: https://www.google.com/?q=Robert+White
+"Lingyue Fu":
+  name: Lingyue Fu
 
-"Charles Green (MIT)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+MIT
+"Hao Guan":
+  name: Hao Guan
 
-"Charles Green (Stanford)":
-  name: Charles Green
-  url: https://www.google.com/?q=Charles+Green+Stanford
+"Haowei Yuan":
+  name: Haowei Yuan
 
-"Garrett Harris":
-  url: https://www.google.com/?q=Garrett+Harris
+"Yaoming Zhu":
+  name: Yaoming Zhu
 
-"James Wang":
-  url: https://www.google.com/?q=James+Wang
+"Jun Xu":
+  name: Jun Xu
 
-"John Doe":
-  url: https://www.google.com/?q=John+Doe
+"Zongyu Wang":
+  name: Zongyu Wang
+
+"Lin Qiu":
+  name: Lin Qiu
+
+"Xunliang Cai":
+  name: Xunliang Cai
+
+"Xuezhi Cao":
+  name: Xuezhi Cao
+
+"Weiwen Liu":
+  name: Weiwen Liu
+
+"Weinan Zhang":
+  name: Weinan Zhang
+
+"Yong Yu":
+  name: Yong Yu
+
+"Fu, L.":
+  name: Fu, L.
+
+"Guan, H.":
+  name: Guan, H.
+
+"Zhuang, A.":
+  name: Zhuang, A.
+
+"Liu, Y.":
+  name: Liu, Y.
+
+"Han, Z.":
+  name: Han, Z.
+
+"Sun, F.":
+  name: Sun, F.
+
+"Chen, L.":
+  name: Chen, L.
+
+"Pan, Z.":
+  name: Pan, Z.
+
+"Guo, J.":
+  name: Guo, J.
+
+"Xu, W.":
+  name: Xu, W.
+
+"Shen, Z.":
+  name: Shen, Z.
+
+"Song, L.":
+  name: Song, L.
+
+"Li, Z.":
+  name: Li, Z.
+
+"Zhang, Z.":
+  name: Zhang, Z.
+
+"Dan, Y.":
+  name: Dan, Y.
+
+"Chen, Y.":
+  name: Chen, Y.
+
+"Sun, W.":
+  name: Sun, W.
+
+"Ji, Y.":
+  name: Ji, Y.
+
+"Yuan, H.":
+  name: Yuan, H.
+
+"Zhu, Y.":
+  name: Zhu, Y.
+
+"Xu, J.":
+  name: Xu, J.
+
+"Wang, Z.":
+  name: Wang, Z.
+
+"Qiu, L.":
+  name: Qiu, L.
+
+"Cai, X.":
+  name: Cai, X.
+
+"Cao, X.":
+  name: Cao, X.
+
+"Liu, W.":
+  name: Liu, W.
+
+"Zhang, W.":
+  name: Zhang, W.
+
+"Yu, Y.":
+  name: Yu, Y.
